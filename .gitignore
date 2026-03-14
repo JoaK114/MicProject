@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec.bak
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# Build artifacts
+pc-server/dist/
+pc-server/build/
+installer/dist/
+installer/build/
+installer/bundled/
+
+# Android / Gradle
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+*.apk
+*.aab
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Gemini artifacts
+.gemini/
