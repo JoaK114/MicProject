@@ -21,6 +21,8 @@ Usa el micrófono de tu celular Android como micrófono en tu PC con Windows.
 
 ### Celular
 - **Android 8.0+** (API 26)
+
+EN CASO DE INSTALAR MEDIANTE CODIGO
 - **Android Studio** para compilar la app (o APK precompilado)
 - **Depuración USB activada** (para modo USB)
 
